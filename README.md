@@ -21,7 +21,7 @@ We then built the following models in Python:
 1. [Naive model](https://github.com/akankshimody/GoodReads_Marketing_Analytics/blob/master/Item_based_filter_Thiru.py) based on KNN using cosine similarity and euclidean distance<br>
 2. [Content-based filtering](https://github.com/akankshimody/GoodReads_Marketing_Analytics/blob/master/Content%20Based%20Recommendation.ipynb) using the tf-idf scores derived from the book description<br>
 3. [Collaborative Filtering](https://github.com/akankshimody/GoodReads_Marketing_Analytics/blob/master/User%20Based%20Collaborative%20Filtering.ipynb)<br>
-  a. Item based model using Singular Value Decomposition
+  a. Item based model using Singular Value Decomposition<br>
   b. User based model using Singular Value Decomposition
 
 ## Results
